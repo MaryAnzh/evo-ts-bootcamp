@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evo-ts-bootcamp/bubble-sort/static/css/main.4ab6e6b8.css",
+    "main.js": "/evo-ts-bootcamp/bubble-sort/static/js/main.6f220612.js",
+    "static/js/787.c86e4abc.chunk.js": "/evo-ts-bootcamp/bubble-sort/static/js/787.c86e4abc.chunk.js",
+    "index.html": "/evo-ts-bootcamp/bubble-sort/index.html",
+    "main.4ab6e6b8.css.map": "/evo-ts-bootcamp/bubble-sort/static/css/main.4ab6e6b8.css.map",
+    "main.6f220612.js.map": "/evo-ts-bootcamp/bubble-sort/static/js/main.6f220612.js.map",
+    "787.c86e4abc.chunk.js.map": "/evo-ts-bootcamp/bubble-sort/static/js/787.c86e4abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab6e6b8.css",
+    "static/js/main.6f220612.js"
+  ]
+}
