@@ -7,7 +7,7 @@ export class App extends React.Component {
     return (
       <div className="App">
         <h2>Bubble sort</h2>
-        <Sea />
+        <Sea name='sea'/>
       </div>
     );
   }

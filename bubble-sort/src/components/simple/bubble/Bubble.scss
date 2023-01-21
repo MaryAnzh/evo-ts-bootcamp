@@ -2,8 +2,21 @@
     position: absolute;
     width: 30px;
     height: 30px;
+    transition: .3s;
 
     &__bubble {
         width: 100%;
     }
+}
+
+
+@keyframes up {
+    0% {
+        transform: translateX(0px);
+    }
+
+    100% {
+        transform: translateX(50px);
+    }
+
 }
